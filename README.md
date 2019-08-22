@@ -2,3 +2,6 @@
 A project to demo git
 
 ## test git using GUI
+
+# test git using VSC
+
